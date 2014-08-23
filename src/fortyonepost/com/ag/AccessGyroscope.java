@@ -144,7 +144,7 @@ public void writeToCsvGy(String x,String y,String z) throws IOException {
 		
 	
 		String csv = "/storage/sdcard0/project/GyroscopeValue.csv";
-		FileWriter file_writer = new FileWriter(csv,true);;
+		FileWriter file_writer = new FileWriter(csv,true);
   		 
   			 
   
